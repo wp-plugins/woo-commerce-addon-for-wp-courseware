@@ -34,7 +34,6 @@ For more info about Fly Plugins Free and Premium Plugins, check out the followin
 
 * [WP Courseware LMS plugin for WordPress](http://wpcourseware.com/) - The best LMS online for WordPress.
 * [S3 Media Maestro](http://s3mediamaestro.com/) - Amazon S3 link encryption with HTML5 supported media player. Flash free & iDevice ready. Your media is now protected..
-* [WP Permission Slip](http://wppermissionslip.com/) - A WordPress plugin that provides a simple, yet powerful solution for managing events like field trips, camps, or even performances..
 * Follow Fly Plugins on [Facebook](http://facebook.com/flyplugins) 
 * Check out the Fly Plugins [YouTube](http://www.youtube.com/flyplugins) channel.
 
