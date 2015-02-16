@@ -2,13 +2,13 @@
 Contributors: flyplugins
 Donate link: http://flyplugins.com/donate
 Tags: fly plugins,woocommerce,wp courseware,wpcourseware,lms,lms for wordpress,learning management system,online ecourse,ecourse,flyplugins,wordpress learning management system
-Requires at least: 3.7
+Requires at least: 3.8
 Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin adds integration between WooCommerce and WP Courseware.
+This plugin adds integration between WooCommerce and WP Courseware which allows you to assign course(s) to products for auto enrollment.
 
 == Description ==
 [Fly Plugins](http://flyplugins.com) presents [WooCommerce](http://www.woothemes.com/woocommerce/) for [WP Courseware](http://wpcourseware.com).
@@ -36,6 +36,9 @@ For more info about Fly Plugins Free and Premium Plugins, check out the followin
 * [S3 Media Maestro](http://s3mediamaestro.com/) - Amazon S3 link encryption with HTML5 supported media player. Flash free & iDevice ready. Your media is now protected..
 * Follow Fly Plugins on [Facebook](http://facebook.com/flyplugins) 
 * Check out the Fly Plugins [YouTube](http://www.youtube.com/flyplugins) channel.
+
+= Disclaimer =
+This is not an actual membership plugin. It is only the integration, or “middle-man” between WP Courseware and WooCommerce.
 
 == Installation ==
 
